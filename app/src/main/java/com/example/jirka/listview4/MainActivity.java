@@ -123,7 +123,7 @@ public class MainActivity extends AppCompatActivity {
     private void gitHubTest () {
         int i = 1+1;
         i = i + 2;
-        i= i + 3;
+        i= i + 4;
     }
 
 
