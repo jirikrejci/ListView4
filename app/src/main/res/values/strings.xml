@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ListView 4</string>
+    <string name="vymaz_hint">Vymaže položku</string>
+</resources>
