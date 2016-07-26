@@ -124,7 +124,7 @@ public class MainActivity extends AppCompatActivity {
         int i = 1+1;
         i= i + 4;
         i = i + 5;
-        i = i + 6;
+        i = i +8;
     }
 
 
