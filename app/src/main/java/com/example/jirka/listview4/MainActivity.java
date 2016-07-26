@@ -125,7 +125,7 @@ public class MainActivity extends AppCompatActivity {
         i= i + 4;
         i = i + 5;
         i = i +8;
-        // Master Branch
+        // Master Branch - první revize
     }
 
 
